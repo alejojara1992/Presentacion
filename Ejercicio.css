@@ -1,0 +1,28 @@
+.mipresentacion{
+    background-color: rgb(30, 139, 139);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 3px;
+    border-radius: 30px;
+}
+.ejercicio{
+    color: rgb(39, 0, 130);
+    text-align: center;
+}
+.foto1{
+    display: block;
+    text-align: center;
+    width: 200px;
+    height: 300px;
+}
+img{
+    display: block;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    padding: 10px;
+}
+body{
+    margin: auto;
+    width: 640px; 
+    padding: 50px;
+}
